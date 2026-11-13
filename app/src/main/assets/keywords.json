@@ -1,0 +1,98 @@
+{
+  "camera": {
+    "keywords": ["camera", "camra", "kamera", "cam", "camera kholo", "camera kolawka", "camra kolo"],
+    "action": "open_app",
+    "target": "camera",
+    "reply": "CAMERA OPEN HOGAYA"
+  },
+  "whatsapp": {
+    "keywords": ["whatsapp", "whatapp", "watsapp", "whatsapp kholo", "whatsapp kolawa"],
+    "action": "open_app",
+    "target": "whatsapp",
+    "reply": "WHATSAPP OPEN HOGAYA"
+  },
+  "torch": {
+    "keywords": ["torch", "batti", "rana", "light", "torch on", "batti jalao"],
+    "action": "toggle_torch",
+    "reply_on": "TORCH ON HOGAYA",
+    "reply_off": "TORCH OFF HOGAYA"
+  },
+  "wifi": {
+    "keywords": ["wifi", "wify", "wi-fi"],
+    "action": "toggle_wifi",
+    "reply_on": "WIFI ON HOGAYA",
+    "reply_off": "WIFI OFF HOGAYA"
+  },
+  "youtube": {
+    "keywords": ["youtube", "youtub", "utube", "youtube kholo", "youtube kolawka"],
+    "action": "open_app",
+    "target": "youtube",
+    "reply": "YOUTUBE OPEN HOGAYA"
+  },
+  "facebook": {
+    "keywords": ["facebook", "fb", "fecbook", "facebook kholo", "facebook kolawka"],
+    "action": "open_app",
+    "target": "facebook",
+    "reply": "FACEBOOK OPEN HOGAYA"
+  },
+  "tiktok": {
+    "keywords": ["tiktok", "tik tok", "tiktak", "tiktok kholo", "tiktok kolawka"],
+    "action": "open_app",
+    "target": "tiktok",
+    "reply": "TIKTOK OPEN HOGAYA"
+  },
+  "dialer": {
+    "keywords": ["phone", "dialer", "call log", "number", "phone kholo"],
+    "action": "open_app",
+    "target": "dialer",
+    "reply": "PHONE OPEN HOGAYA"
+  },
+  "messages": {
+    "keywords": ["message", "sms", "messages", "inbox", "message kholo"],
+    "action": "open_app",
+    "target": "messages",
+    "reply": "MESSAGES OPEN HOGAYA"
+  },
+  "gallery": {
+    "keywords": ["gallery", "photos", "tasweer", "pictures", "gallery kholo", "gallery kolawka"],
+    "action": "open_app",
+    "target": "gallery",
+    "reply": "GALLERY OPEN HOGAYA"
+  },
+  "settings": {
+    "keywords": ["settings", "setting", "seting", "settings kholo", "setting kolawka"],
+    "action": "open_app",
+    "target": "settings",
+    "reply": "SETTINGS OPEN HOGAYA"
+  },
+  "calculator": {
+    "keywords": ["calculator", "hisab", "calc", "calculator kholo"],
+    "action": "open_app",
+    "target": "calculator",
+    "reply": "CALCULATOR OPEN HOGAYA"
+  },
+  "calendar": {
+    "keywords": ["calendar", "tareekh", "date", "calendar kholo"],
+    "action": "open_app",
+    "target": "calendar",
+    "reply": "CALENDAR OPEN HOGAYA"
+  },
+  "clock": {
+    "keywords": ["clock", "ghari", "alarm", "time", "clock kholo"],
+    "action": "open_app",
+    "target": "clock",
+    "reply": "CLOCK OPEN HOGAYA"
+  },
+  "chrome": {
+    "keywords": ["chrome", "browser", "internet", "google chrome", "chrome kholo"],
+    "action": "open_app",
+    "target": "chrome",
+    "reply": "CHROME OPEN HOGAYA"
+  },
+  "maps": {
+    "keywords": ["maps", "map", "naqsha", "google maps", "rasta", "maps kholo"],
+    "action": "open_app",
+    "target": "maps",
+    "reply": "MAPS OPEN HOGAYA"
+  }
+}
